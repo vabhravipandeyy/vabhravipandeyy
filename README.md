@@ -1,56 +1,77 @@
+# Hi there, I'm Vabhravi Pandey! 👋
+
+<a href="https://linkedin.com/in/vabhravi-pandey"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://github.com/vabhravipandeyy"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+
+## 🎯 About Me
+I am an **AI/ML Student** at DIT University (2023-2027) with a deep interest in building practical AI-driven applications and data solutions. I enjoy exploring everything from traditional machine learning frameworks to cutting-edge Generative AI workflows.
+
+- 🔬 **Current Focus:** Creating intelligent interfaces and automated data utilities.
+- 🛠️ **Core Strengths:** Data Structures & Algorithms, Object-Oriented Programming, and technical writing.
+- 🚀 **Goal:** Designing robust, user-centric intelligence platforms to solve real-world automation challenges.
+
+---
+
+## 🛠️ Tech Stack & Competencies
+
+### 💻 Programming Languages
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" /> <img src="https://img.shields.io/badge/SQL-CC292B?style=flat-square&logo=sqlite&logicColor=white" alt="SQL" />
+
+### 🧠 Intelligence & Frameworks
+<img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=flat-square&logo=google-scholar&logoColor=white" alt="Machine Learning" /> <img src="https://img.shields.io/badge/Generative_AI-000000?style=flat-square&logo=openai&logoColor=white" alt="Generative AI" /> <img src="https://img.shields.io/badge/NLP-4B275F?style=flat-square&logo=apache&logoColor=white" alt="NLP" /> <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit" />
+
+### ⚙️ Developer Tools & Environments
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" /> <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+
+---
+
+## 💼 Professional Experience
+
+### 🔹 GSTN (Goods and Service Tax Network)
+**Machine Learning and Data Science Intern** | *June 2026 - August 2026*
+- Developed and deployed an end-to-end data science solution using real-world GST office data to detect and track Suspicious Vehicle Movement, enhancing tax enforcement and anomaly detection capabilities.
+
+### 🔹 Prodigy InfoTech
+**Generative AI Intern** | *April 2026 - May 2026*
+- Developed and implemented generative AI models and applications, managing codebase and deployments via GitHub.
+
+### 🔹 Pinnacle Labs Pvt. Ltd.
+**Artificial Intelligence Intern** | *March 2026 - April 2026*
+- Worked on AI systems and contributed to development workflows and testing.
+
+---
+
+## 💻 Technical Projects
+
+*   **The Grooming Oracle (Ongoing)**
+    An AI-powered grooming assistant featuring real-time facial analysis for personalized styling. Integrates computer camera feed inputs, an interactive web UI, and intelligent recommendation rules.
+*   **AI Resume Parser and Ranker**
+    An end-to-end processing web application built to parse and rank candidate profiles automatically. Built with an interactive Streamlit interface and versioned entirely via GitHub to streamline recruitment workflows.
+*   **Sentiment Analysis of Social Media Data**
+    Engineered an analytics pipeline dedicated to processing, cleaning, and extracting semantic insights from unstructured online social streams to classify real-time user intent and public sentiment trends.
+*   **AI Translator App**
+    A multi-modal language translator supporting live text, voice tracking, and image-based text inputs powered by foundational NLP pipelines and open translation APIs.
+*   **AI Mock Interviewer**
+    A dynamic automated platform that simulates technical career interviews, complete with responsive situational questioning, natural language parsing, and automated performance feedback metrics.
+
+---
+
+## 🎖️ Certifications & Responsibilities
+
+### Credentials
+- **Oracle:** AI Agent Studio for Fusion Application Foundation & OCI AI Foundations
+- **The Johns Hopkins University:** Managing Data Analysis & Executive Data Science
+- **Coursera:** Linux Fundamentals (Learn Quest) & Database Management Essentials (University of Colorado)
+
+### Leadership
+- **Content Head** – Cyber Gaming Coding Club: Spearheaded logistics and organization for an internal hackathon spanning 40+ engineering teams.
+- **Event Coordinator** – Youthopia College Fest: Controlled scheduling, rulesets, and technical environments for the popular "RoboSoccer" competitive arena.
+
+---
+
+## 📈 Activity & Insights
+
 <div align="center">
-  <h1>Hi, I'm Vabhravi Pandey 👋</h1>
-  <p>AI/ML Student @ DIT University | Generative AI & Data Science</p>
-</div>
-
-<br />
-
-### 🚀 About Me
-- 🔭 I am currently pursuing a Bachelor of Technology in Computer Science, specializing in AI & ML (2023-2027).[cite: 1]
-- 🌱 I am highly interested in building simple AI-based applications and learning through practical projects.[cite: 1]
-- 💡 My core competencies include Data Structures & Algorithms and Object-Oriented Programming.[cite: 1]
-- 🤝 Beyond code, my strengths include Problem Solving, Team Collaboration, Technical Writing, and Adaptability.[cite: 1]
-- 📫 Let's connect on [LinkedIn](https://linkedin.com/in/vabhravi-pandey) or check out my work here on [GitHub](https://github.com/vabhravipandeyy).[cite: 1]
-
-<br />
-
-### 🛠️ Tech Stack & Skills
-<div align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Machine Learning" />
-  <img src="https://img.shields.io/badge/Generative_AI-000000?style=for-the-badge&logo=openai&logoColor=white" alt="Generative AI" />
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit" />
-</div>
-
-<br />
-
-### 💼 Experience
-| Role | Company | Timeline |
-|---|---|---|
-| **Machine Learning and Data Science Intern** | GSTN (Goods and Service Tax Network) | June 2026 - August 2026 |
-| **Generative AI Intern** | Prodigy InfoTech | Apr 2026 - May 2026 |
-| **Artificial Intelligence Intern** | Pinnacle Labs Pvt. Ltd. | Mar 2026 - Apr 2026 |
-
-<br />
-
-### 💻 Featured Projects
-- **Grooming Oracle (Ongoing):** Developing an AI-powered grooming assistant with real-time facial analysis for personalized styling, integrating camera input, interactive UI, and intelligent recommendation logic.[cite: 1]
-- **AI Resume Parser and Ranker:** Developed and deployed an end-to-end application to automate resume parsing and ranking, managing the full lifecycle including GitHub deployment and Streamlit interface design.[cite: 1]
-- **AI Translator App:** Engineered a multi-modal translator supporting text, voice, and image inputs using NLP and APIs.[cite: 1]
-- **AI Mock Interviewer:** Built an AI-based interview platform with dynamic questioning and automated feedback using NLP.[cite: 1]
-
-<br />
-
-### 🏆 Leadership & Extracurriculars
-- **Content Head, Cyber Gaming Coding Club:** Organized a Hackathon with over 40 participating teams.[cite: 1]
-- **Event Coordinator, Youthopia College Fest:** Coordinated the "RoboSoccer" event and managed technical logistics.[cite: 1]
-- **Content Writer, Editorial Board:** Authored articles and reports for university publications.[cite: 1]
-
-<br />
-
-### 📈 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vabhravipandeyy&show_icons=true&theme=radical" alt="GitHub Stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vabhravipandeyy&layout=compact&theme=radical" alt="Top Languages" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=vabhravipandeyy&show_icons=true&theme=tokyonight&hide_border=true" alt="Vabhravi's GitHub Stats" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vabhravipandeyy&layout=compact&theme=tokyonight&hide_border=true" alt="Vabhravi's Top Languages" height="180" />
 </div>
